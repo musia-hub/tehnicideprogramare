@@ -1,0 +1,29 @@
+{
+  "url": "https://example.com",
+  "checked_at": "2026-10-08T19:25:27",
+  "status_code": 200,
+  "final_url": "https://example.com/",
+  "title": "Example Domain",
+  "ip_address": "104.20.23.154",
+  "redirects": [],
+  "security_headers": {
+    "Strict-Transport-Security": "lipseste",
+    "Content-Security-Policy": "lipseste",
+    "X-Frame-Options": "lipseste",
+    "X-Content-Type-Options": "lipseste",
+    "Referrer-Policy": "lipseste"
+  },
+  "security_score": "0/5",
+  "certificate_days_left": 78,
+  "links": {
+    "internal_count": 0,
+    "external_count": 0,
+    "internal": [],
+    "external": []
+  },
+  "paths": {
+    "/": 200,
+    "/robots.txt": 404,
+    "/sitemap.xml": 404
+  }
+}

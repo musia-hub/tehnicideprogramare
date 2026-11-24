@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "url": "https://cybercor.org/",
+  "title": "CYBERCOR",
+  "ip": "104.21.91.71",
+  "redirects": [],
+  "security": "3/5",
+  "certificate_days": 68,
+  "links": 1,
+  "forbidden_paths": [
+    [
+      "/admin",
+      200
+    ],
+    [
+      "/private",
+      200
+    ]
+  ]
+}
